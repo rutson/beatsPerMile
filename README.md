@@ -1,9 +1,9 @@
 # beatsPerMile
-Garmin Connect IQ data field to display heartbeats per mile (or kilometre)
+Garmin Connect IQ data field to display heartbeats per mile (or kilometre - based on system setting).
 
-I became curious about beats-per-mile following and interview with Steve Way[1] on Marathon Talk Episode 436 [2].
+I became curious about beats-per-mile following an interview with Steve Way[1] on Marathon Talk Episode 436[2].
 
-An evening of pratting around with Connect IQ and thanks to a helpful tutorial[3] v0.1 of beatsPerMile was born.
+An evening of pratting around with Connect IQ and thanks to a helpful tutorial[3], v0.1 of beatsPerMile was born.
 
 
 [1] https://twitter.com/marigold_bac
