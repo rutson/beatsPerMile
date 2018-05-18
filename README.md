@@ -11,3 +11,5 @@ An evening of pratting around with Connect IQ and thanks to a helpful tutorial[3
 [2] https://marathontalk.com/shows/episode-436-steve-way/
 
 [3] http://starttorun.info/garmin-connect-iq-tutorial-overview/
+
+Logo made with Logomakr.com
